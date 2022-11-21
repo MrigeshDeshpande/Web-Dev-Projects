@@ -1,0 +1,3 @@
+->create npm project
+->creae INdex, css, JS file
+-Install dependencies
